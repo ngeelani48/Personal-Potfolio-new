@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(56, 47, 49);
+  font-family: sans-serif;
+}
+
+#navbar {
+  background-color: rgb(176, 4, 41);
+  padding-top: 35px;
+  color: white;
+  font-size: 20px;
+
+}
