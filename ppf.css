@@ -24,7 +24,7 @@ font-size: 30px;
 font-weight: 500;
 padding-top: 200px;
 text-align: center;
-padding-bottom: 400px;
+padding-bottom: 200px;
 }
 
 #contact {
@@ -33,4 +33,8 @@ padding-bottom: 400px;
   text-align: center;
   padding-bottom: 100px;
   color: aliceblue;
+}
+
+#projects {
+  margin-left: 160px;
 }
