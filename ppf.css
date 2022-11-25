@@ -6,10 +6,18 @@ body {
 #navbar {
   background-color: rgb(176, 4, 41);
   padding-top: 35px;
-  color: white;
+  color: aliceblue;
   font-size: 20px;
-
+  position: fixed;
+  width: 100%;
+  text-align: right;
 }
+
+nav > a {
+  color: aliceblue;
+  margin: 10px;
+}
+
 #welcome-section{
 color: aliceblue;
 font-size: 30px;
@@ -17,4 +25,12 @@ font-weight: 500;
 padding-top: 200px;
 text-align: center;
 padding-bottom: 400px;
+}
+
+#contact {
+  padding-top: 100px;
+  font-size: 35px;
+  text-align: center;
+  padding-bottom: 100px;
+  color: aliceblue;
 }
